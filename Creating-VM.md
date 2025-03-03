@@ -95,6 +95,9 @@ Follow these steps to deploy the virtual machine:
 
 <img width="1136" alt="image" src="https://github.com/user-attachments/assets/0596184d-b3eb-4766-891c-b7f6f117c025" />
 
+###Connect to your local machine and enjoy it !!!
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/4d0fd9ad-37f0-41e2-ad91-83631a732453" />
+
 
 **3. More VMs and Related Solutions (Discover and deploy full workloads and Azure products for your business needs)**
 
