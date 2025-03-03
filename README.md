@@ -1,3 +1,7 @@
-### Exploring-Azure
+# Exploring Azure
 
-#Deploying the Docker image / Container Instance [click here][https://github.com/dopavashu/Exploring-Azure/blob/main/Deploy-Container%5BDocker-img%5D.md]
+This repository contains resources and guides for exploring various Azure services and deployments.
+
+## Deploying a Docker Image / Container Instance
+
+[Deploy a Docker Image to Azure Container Instances](Deploy-Docker-Image-to-ACI.md)
